@@ -1,0 +1,14 @@
+To address the user's query, I've devised a short actionable plan for the worker agent:
+
+**Plan: Answer Simple Math Query**
+
+1. **Retrieve Query**: Receive the user's query, which is "What is 2 + 2?"
+2. **Identify Operation**: Determine the mathematical operation required to answer the query, which is addition.
+3. **Perform Calculation**: Calculate the result of 2 + 2.
+4. **Generate Response**: Create a response with the calculated result.
+5. **Return Answer**: Provide the answer to the user, which is "The answer is 4."
+
+**Actionable Steps for Worker Agent:**
+
+- Calculate 2 + 2.
+- Respond with the calculated result.

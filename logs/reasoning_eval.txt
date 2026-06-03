@@ -1,0 +1,10 @@
+To compute the final price of a product that originally costs $1000 and gets a 10% discount, we follow these steps:
+
+1. Calculate the discount amount: 10% of $1000 = 0.10 * $1000 = $100.
+2. Subtract the discount from the original price: $1000 - $100 = $900.
+
+Therefore, the final price of the product after the discount is $900.
+
+Score: 10
+Decision: approve
+Reason: The calculation correctly applies the discount to find the final price.

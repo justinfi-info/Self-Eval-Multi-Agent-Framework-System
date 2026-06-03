@@ -1,0 +1,3 @@
+Score: 8
+Decision: revise
+Reason: The answer is a numerical value, but it lacks context and explanation. It is unclear what the $900 refers to or how it was calculated, making it difficult to determine its accuracy or relevance. Additional information or clarification is needed to fully evaluate the answer.

@@ -1,0 +1,2 @@
+Decision: approve
+Reason: Correct capital of France provided.

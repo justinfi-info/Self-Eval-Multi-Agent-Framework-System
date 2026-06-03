@@ -1,0 +1,3 @@
+Score: 2
+Decision: revise
+Reason: The answer is incomplete and lacks context, as it only provides a numerical value without any explanation or justification. To evaluate the final answer of $900, more information is needed about the problem or question being addressed.

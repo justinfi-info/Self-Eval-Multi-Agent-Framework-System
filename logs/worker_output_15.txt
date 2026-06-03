@@ -1,0 +1,13 @@
+Thought: The user is asking for factual information about the capital of France, which can be found on the web.
+Action: Search tool
+Action Input: capital of France
+
+Thought: The search results should provide the correct answer to the user's query.
+Action: None needed, as the search tool will provide the required information.
+
+FINAL ANSWER:
+The capital of France is Paris.
+
+REASONING TRACE:
+- Step 1: Identify the query as a factual question that requires web-based information.
+- Step 2: Use the search tool to find the answer, as it is the most suitable tool for retrieving factual information from the web.

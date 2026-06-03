@@ -1,0 +1,12 @@
+Thought: The problem requires calculating the final price of a product after applying a 10% discount. To do this, we need to first calculate the discount amount and then subtract it from the initial price.
+
+Action: Use code_tool to calculate the discount amount and the final price.
+Action Input: 
+```
+initial_price = 1000
+discount_percentage = 0.10
+discount_amount = initial_price * discount_percentage
+final_price = initial_price - discount_amount
+```
+
+Final Answer: $900

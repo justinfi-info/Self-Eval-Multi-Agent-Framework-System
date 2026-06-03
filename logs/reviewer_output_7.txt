@@ -1,0 +1,2 @@
+Decision: approve
+Reason: Accurate capital city name provided.

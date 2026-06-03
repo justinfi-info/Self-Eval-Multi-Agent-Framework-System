@@ -1,0 +1,5 @@
+Planner
+
+* Planner Agent --> Strategiest plotting solution to a problem
+* Worker Agent --> Doer Based on the Planner
+* Reviewer Agent --> Feedback provider for the work

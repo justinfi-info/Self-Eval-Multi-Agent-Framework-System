@@ -1,0 +1,13 @@
+To evaluate the tool usage behavior for the given query, we'll assess the correctness, efficiency, and overall usage of the tool.
+
+1. **Correctness**: The calculation performed is correct. The product originally costs $1000, and with a 10% discount, the discount amount is $100 (10% of $1000). Subtracting this discount from the original price yields a final price of $900, which is correct.
+
+2. **Efficiency**: The method used to calculate the final price after the discount is straightforward and efficient. It directly applies the discount percentage to the original price and then subtracts the discount amount from the original price, which is a standard and efficient way to compute the final price after a discount.
+
+3. **Tool Usage**: The tool usage is correct in the context provided. The individual used a coding or calculation tool to perform the necessary arithmetic operations ($1000 * 0.10 for the discount amount and $1000 - $100 for the final price), which is an appropriate use of such a tool for this type of calculation.
+
+Given these considerations:
+
+- **Score**: 10/10
+- **Decision**: Approve
+- **Reason**: Correct calculation, efficient method, and appropriate tool usage.

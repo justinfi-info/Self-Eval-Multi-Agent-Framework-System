@@ -1,0 +1,14 @@
+Thought: To calculate the final price of a product after a 10% discount, we need to first find the discount amount by multiplying the original price by the discount percentage, and then subtract this discount from the original price.
+
+Action: Use the code_tool to perform the calculation.
+
+Action Input: 
+```
+original_price = 1000
+discount_percentage = 0.10
+discount_amount = original_price * discount_percentage
+final_price = original_price - discount_amount
+print(final_price)
+```
+
+Final Answer: $900

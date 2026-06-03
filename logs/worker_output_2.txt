@@ -1,0 +1,14 @@
+Thought: To calculate the final price of a product that costs $1000 with a 10% discount, we need to first calculate the discount amount and then subtract it from the original price. This requires a computational tool.
+
+Action: Use the code_tool to calculate the discount amount and the final price.
+
+Action Input: 
+```
+discount_percentage = 0.10
+original_price = 1000
+discount_amount = original_price * discount_percentage
+final_price = original_price - discount_amount
+print(final_price)
+```
+
+Final Answer: $900

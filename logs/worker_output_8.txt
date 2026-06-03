@@ -1,0 +1,11 @@
+Thought: To find the final price of a product that initially costs $1000 with a 10% discount, we need to calculate the discount amount first and then subtract it from the original price.
+
+Action: Compute the final price using the formula for discount.
+Action Input: 
+```
+original_price = 1000
+discount_percentage = 0.10
+final_price = original_price - (original_price * discount_percentage)
+```
+
+Final Answer: $900

@@ -1,0 +1,23 @@
+Thought: To calculate the final price of a product with a 10% discount, we first need to find the discount amount by multiplying the initial price by the discount percentage, and then subtract the discount amount from the initial price.
+
+Action: Compute the discount amount and final price
+Action Input: 
+Initial price = $1000, Discount percentage = 10% or 0.10
+
+Using code_tool to perform the computation:
+
+```python
+# Define variables
+initial_price = 1000
+discount_percentage = 0.10
+
+# Calculate discount amount
+discount_amount = initial_price * discount_percentage
+
+# Calculate final price
+final_price = initial_price - discount_amount
+
+print("The final price is: ", final_price)
+```
+
+Final Answer: $900

@@ -1,0 +1,44 @@
+**Shot Plan: Calculating Final Price with 10% Discount**
+
+**Scene 1: Introduction**
+
+* Camera angle: Straight-on shot of a whiteboard or calculator
+* Action: Write the initial product price ($1000) on the whiteboard or display it on the calculator
+* Voiceover: "Let's calculate the final price of a product that costs $1000 with a 10% discount."
+
+**Scene 2: Calculate Discount Amount**
+
+* Camera angle: Close-up shot of the calculator or whiteboard
+* Action: Calculate the discount amount by multiplying the initial price by the discount percentage (10% = 0.10)
+* Math:
+	+ Discount amount = Initial price x Discount percentage
+	+ Discount amount = $1000 x 0.10
+	+ Discount amount = $100
+* Voiceover: "To find the discount amount, we multiply the initial price by the discount percentage. In this case, the discount amount is $100."
+
+**Scene 3: Calculate Final Price**
+
+* Camera angle: Close-up shot of the calculator or whiteboard
+* Action: Subtract the discount amount from the initial price to find the final price
+* Math:
+	+ Final price = Initial price - Discount amount
+	+ Final price = $1000 - $100
+	+ Final price = $900
+* Voiceover: "Now, we subtract the discount amount from the initial price to find the final price. The final price is $900."
+
+**Scene 4: Conclusion**
+
+* Camera angle: Straight-on shot of the whiteboard or calculator
+* Action: Display the final price ($900) on the whiteboard or calculator
+* Voiceover: "Therefore, the final price of the product with a 10% discount is $900."
+
+**Reasoning:**
+
+1. The initial product price is $1000.
+2. The discount percentage is 10% (or 0.10).
+3. To find the discount amount, we multiply the initial price by the discount percentage: $1000 x 0.10 = $100.
+4. To find the final price, we subtract the discount amount from the initial price: $1000 - $100 = $900.
+
+**Final Answer:**
+
+The final price of the product with a 10% discount is $900.

@@ -1,0 +1,1 @@
+[{'action': 'DB tool', 'input': "SELECT capital FROM countries WHERE name = 'France'", 'result': 'Unknown tool'}]

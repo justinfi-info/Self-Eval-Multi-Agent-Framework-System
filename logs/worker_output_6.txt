@@ -1,0 +1,13 @@
+Thought: The problem requires calculating the final price of a product after applying a 10% discount to its original price of $1000. This involves a computational step that can be solved using the code_tool.
+
+Action: Calculate the final price using the formula: Final Price = Original Price - (Original Price * Discount Percentage).
+
+Action Input: 
+```python
+original_price = 1000
+discount_percentage = 0.10
+final_price = original_price - (original_price * discount_percentage)
+print(final_price)
+```
+
+Final Answer: $900

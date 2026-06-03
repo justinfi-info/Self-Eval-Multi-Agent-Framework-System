@@ -1,0 +1,6 @@
+Thought: The problem requires calculating the final price of a product after applying a 10% discount. To do this, we need to first calculate the discount amount and then subtract it from the original price.
+
+Action: code_tool
+Action Input: $1000 * 0.10 = $100, then $1000 - $100 = $900
+
+Final Answer: $900
